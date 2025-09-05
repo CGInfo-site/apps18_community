@@ -1,2 +1,2 @@
-# Odoo_desarrollo
-Carpeta de desarrollo Odoo
+# Apps Odoo 18 _ Proyecto Himax
+Carpeta de desarrollo Odoo custom-addons
